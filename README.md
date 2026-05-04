@@ -1,17 +1,17 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Bikeshare Data Analysis Project
 
-### Date created
-Include the date you created this project and README file.
+This repository is a fork of Udacity's pdsnd_github project.
 
-### Project Title
-Replace the Project Title
+## Purpose
+This project demonstrates the use of Git and GitHub, including:
+- Forking a repository
+- Creating branches
+- Making commits
+- Merging branches
 
-### Description
-Describe what your project is about and what it does
+## Project Files
+- bikeshare.py : Python script for analyzing bikeshare data
+- README.md : Project documentation
 
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+## Notes
+The datasets are not included in this repository.
