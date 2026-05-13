@@ -1,5 +1,5 @@
 # Bikeshare Data Analysis Project (documentation)
-
+This porject follows Git branching workflow for Udacity submission.
 This repository is a fork of Udacity's pdsnd_github project.
 
 ## Purpose
