@@ -1,4 +1,4 @@
-# Bikeshare Data Analysis Project
+# Bikeshare Data Analysis Project (documentation)
 
 This repository is a fork of Udacity's pdsnd_github project.
 
